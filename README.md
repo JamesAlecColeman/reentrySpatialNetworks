@@ -2,6 +2,7 @@ C++ implementation for "Identifying locations susceptible to micro-anatomical re
 ==============================================
 
 James Coleman, Samuel Dobson
+
 Contact JamesAlecColeman@gmail.com
 
 Environment Used
