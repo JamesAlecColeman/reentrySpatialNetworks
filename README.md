@@ -7,12 +7,13 @@ Contact JamesAlecColeman@gmail.com
 
 Implementation of reading/writing .npy files in C++ ("numpy.hpp") is owned by Masaki Saito
 
-Environment Used
+Environment used
 --------
 C++14
+
 gcc 4.8.5
 
-Instructions for use.
+Instructions
 ---------------------
 
     
