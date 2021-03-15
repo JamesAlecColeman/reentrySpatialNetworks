@@ -15,6 +15,10 @@ gcc 4.8.5
 
 File information
 ---------------------
-/tractography/ contains the code required to construct fibres, given a flat fibre orientation dataset in .npy in the form (i, j, k, v1, v2, v3)
+/tractography/ contains the program required to construct fibres, given a flat fibre orientation dataset in .npy in the form (i, j, k, v1, v2, v3)
+
+/null/ contains the program to randomly place nodes >dSep apart over the fibre orientation dataset, without the construction of fibres
+
+/DDM/ contains the program that completes the networks generated using tractography/null and runs a discrete diffusion model on these networks. The amount of re-entries at each node are saved as .npy.
 
     
