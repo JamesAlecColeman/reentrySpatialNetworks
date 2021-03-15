@@ -9,7 +9,8 @@ Implementation of reading/writing .npy files in C++ ("numpy.hpp") is owned by Ma
 
 Environment Used
 --------
-
+C++14
+gcc 4.8.5
 
 Instructions for use.
 ---------------------
