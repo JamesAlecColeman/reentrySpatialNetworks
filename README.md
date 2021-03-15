@@ -13,7 +13,8 @@ C++14
 
 gcc 4.8.5
 
-Instructions
+File information
 ---------------------
+/tractography/ contains the code required to construct fibres, given a flat fibre orientation dataset in .npy in the form (i, j, k, v1, v2, v3)
 
     
