@@ -20,7 +20,6 @@ private:
 
     std::vector<int> timesExcited;
 
-
 public:
     std::vector<int> getcons();
     std::vector<double> getCellDistances();
