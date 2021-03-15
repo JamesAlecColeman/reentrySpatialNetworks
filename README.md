@@ -5,6 +5,8 @@ James Coleman, Samuel Dobson
 
 Contact JamesAlecColeman@gmail.com
 
+Implementation of reading/writing .npy files in C++ ("numpy.hpp") is owned by Masaki Saito
+
 Environment Used
 --------
 
